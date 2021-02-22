@@ -7,7 +7,6 @@ Files Descriptions
 1. RSA.jar - the executable file of the programm
 2. User's Manual and theoretic background. 
 3. Examples for encryption and decryption of a file (with parameters stated in the mannual).
-4. The program's code (.java) and complied classes (.class).
 
 
 How to start the program
