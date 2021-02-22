@@ -1,6 +1,6 @@
 # RSA-misc
 
-========================
+
 Files Descriptions
 ========================
 
@@ -9,7 +9,7 @@ Files Descriptions
 3. Examples for encryption and decryption of a file (with parameters stated in the mannual).
 4. The program's code (.java) and complied classes (.class).
 
-========================
+
 How to start the program
 ========================
 
