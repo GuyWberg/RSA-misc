@@ -16,5 +16,3 @@ How to start the program
 2. assuming java sdk is installed on the computer,if the jar file fails, open cmd in the ../Code direcroty and write run. (run.bat should start)
 
 Note: the program was written in Java using Java JDK 1.8, on MacOS (the program was tested on Windows as well).
-
-Guy Weissenberg
