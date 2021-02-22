@@ -1,5 +1,12 @@
 # RSA-misc
 
+Implementation of:
+1. RSA encryption/decryption 
+2. Miller-Rabin algorithm - a randomized algorithm for testing primality. 
+3. Pollard's p − 1 algorithm - a randomised number theoretic integer factorization algorithm. 
+4. Wiener's attack - attack which uses the continued fraction method to expose the private key d when d is small.
+5. Factorization of the modulus given the decryption and encryption keys. 
+
 
 Files Descriptions
 ========================
